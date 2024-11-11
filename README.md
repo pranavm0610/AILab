@@ -1,4 +1,17 @@
+
+
+<div align="center">
+  
 # UCS2504 - Foundations of Artificial Intelligence
+  
+### NAME: PRANAV MOORTHI
+### REG: 312222 5001 093
+### CLASS: SEC-B
+
+</div>
+
+
+
 ## Assignment 1 - DFS
 **Date :** 01/08/2024
 

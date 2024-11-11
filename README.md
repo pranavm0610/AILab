@@ -2153,6 +2153,14 @@ Total Joint Probability for the given states = 0.0084
 ```
 ## Game Report - Super Mario: The Adventure Quest
 
+<div align="center">
+
+Name: Nivetha Dhanakoti, Pranav Moorthi
+Reg No.: 3122 22 5001 087, 3122 22 5001 089
+Date: 10-11-2024
+
+</div>
+
 **Date :** 12/11/2024
 
 ### Problem Description
